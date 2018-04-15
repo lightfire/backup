@@ -14,7 +14,7 @@
     "require": {
         "php": ">=7.0.0",
         "laravel/framework": "5.6.*",
-        "encore/laravel-admin": "1.5.*",
+        "encore/laravel-admin": "dev-master",
         "spatie/laravel-backup": "^5.0"
     },
     "require-dev": {
